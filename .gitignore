@@ -1,1 +1,14 @@
+# precompiled binaries
 __pycache__/
+
+# pretrained models (will download on execution)
+pretrained_models/
+
+# output
+*.wav
+
+# music library
+songs_in/
+
+# emacs
+*~
